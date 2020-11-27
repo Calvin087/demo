@@ -6,4 +6,4 @@ This is a simple readme file
 
 for a text editor
 
-I hope this isn't a problem
+This is bound to cause trouble!
