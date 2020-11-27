@@ -7,3 +7,8 @@ This is a simple readme file
 for a text editor
 
 This is bound to cause trouble!
+modified
+
+Time travel?
+
+pre time travel note
